@@ -86,6 +86,3 @@ Proje yolu Türkçe karakter veya boşluk içeriyorsa:
 - Tüm playlistı toplu indirme
 - MP3 formatında yüksek kaliteli ses (320kbps)
 - İndirilen dosyalar masaüstüne kaydedilir
- 
-
-<img width="1277" height="654" alt="image" src="https://github.com/user-attachments/assets/59daf518-6e9b-4646-acc6-e523cfb3942f" />
