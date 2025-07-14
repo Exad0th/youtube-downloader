@@ -1,4 +1,4 @@
-# YouTube Playlist Downloader
+<img width="1277" height="654" alt="image" src="https://github.com/user-attachments/assets/61dac16a-e4e9-4409-8ae2-b6daf76511a1" /># YouTube Playlist Downloader
 
 YouTube playlistlerini MP3 formatında indirmenizi sağlayan bir web uygulaması.
 
@@ -87,3 +87,5 @@ Proje yolu Türkçe karakter veya boşluk içeriyorsa:
 - MP3 formatında yüksek kaliteli ses (320kbps)
 - İndirilen dosyalar masaüstüne kaydedilir
  
+
+<img width="1277" height="654" alt="image" src="https://github.com/user-attachments/assets/59daf518-6e9b-4646-acc6-e523cfb3942f" />
